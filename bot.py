@@ -19,7 +19,7 @@ ABOUT_TEXT = """
 🌐 *سورس ربات*: 
 [GitHub Repository](https://github.com/Shirazi-workplace/Botsh1/tree/main)
 
-_این اولین ربات تلگرام من است!_
+_ طراحی و مدرن سازی انواع سایت و اپلیکیشن _
 """
 
 async def start(update: Update, context):
