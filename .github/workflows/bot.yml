@@ -22,5 +22,5 @@ jobs:
 
     - name: Run Bot
       env:
-        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}  # تغییر مهم: TOKEN به BOT_TOKEN
       run: python bot.py
